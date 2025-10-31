@@ -6,5 +6,3 @@ Tarea individual/grupal
 
 
 
-
-version final 3.0
